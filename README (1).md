@@ -117,4 +117,3 @@ Failures, retries, and duplicate deliveries are unavoidable in distributed syste
 
 ---
 
-*Submitted as part of the Celery Module — Task T6.*
