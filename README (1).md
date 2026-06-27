@@ -1,9 +1,7 @@
 # 🔁 Idempotency in Task Design
 
-> Research & documentation on why retried tasks must be safe to repeat — Celery Module, Task T6
 
-**Module:** Celery &nbsp;|&nbsp; **Difficulty:** Easy &nbsp;|&nbsp; **Type:** Documentation &nbsp;|&nbsp; **Status:** Complete
-
+**Module:** Celery 
 ---
 
 ## 📑 Table of Contents
