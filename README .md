@@ -21,7 +21,7 @@
 
 This repository contains research and documentation on **idempotency in task design**, specifically in the context of [Celery](https://docs.celeryq.dev/) task queues. It explains, in simple terms, why tasks that can be retried must be safe to run more than once — and how to design them that way.
 
-No code is included here on purpose — this task is documentation-only, focused on understanding the *concept* before applying it.
+No code is included here.
 
 ---
 
